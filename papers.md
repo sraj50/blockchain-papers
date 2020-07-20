@@ -9,3 +9,4 @@
 - [DAOs, Democracy and Governance](https://merkle.com/papers/DAOdemocracyDraft.pdf) by Ralph C. Merkle
 - [Blockchain Resource Pricing](https://ethresear.ch/uploads/default/original/2X/1/197884012ada193318b67c4b777441e4a1830f49.pdf) by Vitalik Buterin
 - [Proofs that Yield Nothing But Their Validity or All Languages in NP Have Zero-Knowledge Proof Systems](http://users.softlab.ntua.gr/~dvitin/zk/GMW91.pdf) by Goldreich, Micali, Wigderson
+- [A user’s perspective and introduction to blockchain governance](https://medium.com/@richardred/a-users-perspective-and-introduction-to-blockchain-governance-80fbe2050222) by Richard Red
